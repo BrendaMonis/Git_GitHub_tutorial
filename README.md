@@ -1,4 +1,4 @@
-# Git_GitHub_tutorial
+# Tutorial do Git e GitHub
 Olá!
 
 Neste tutorial será abordado sobre:
